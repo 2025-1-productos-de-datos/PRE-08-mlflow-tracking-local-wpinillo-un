@@ -1,0 +1,15 @@
+artifact_uri: /home/stwpinillo/Documents/master/productos-de-datos/PRE-08-mlflow-tracking-local-wpinillo-un/my_mlruns/559858810329047282/64aef05b363b481492bb02df794f1830/artifacts
+end_time: 1748099866294
+entry_point_name: ''
+experiment_id: '559858810329047282'
+lifecycle_stage: active
+run_id: 64aef05b363b481492bb02df794f1830
+run_name: elasticnet_76a245f0
+run_uuid: 64aef05b363b481492bb02df794f1830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748099866277
+status: 3
+tags: []
+user_id: stwpinillo

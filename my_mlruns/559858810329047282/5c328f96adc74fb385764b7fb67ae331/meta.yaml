@@ -1,0 +1,15 @@
+artifact_uri: /home/stwpinillo/Documents/master/productos-de-datos/PRE-08-mlflow-tracking-local-wpinillo-un/my_mlruns/559858810329047282/5c328f96adc74fb385764b7fb67ae331/artifacts
+end_time: 1748099848698
+entry_point_name: ''
+experiment_id: '559858810329047282'
+lifecycle_stage: active
+run_id: 5c328f96adc74fb385764b7fb67ae331
+run_name: knn_9bca44f8
+run_uuid: 5c328f96adc74fb385764b7fb67ae331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748099848672
+status: 3
+tags: []
+user_id: stwpinillo

@@ -1,0 +1,6 @@
+artifact_location: /home/stwpinillo/Documents/master/productos-de-datos/PRE-08-mlflow-tracking-local-wpinillo-un/my_mlruns/559858810329047282
+creation_time: 1748099848624
+experiment_id: '559858810329047282'
+last_update_time: 1748099848624
+lifecycle_stage: active
+name: wine_quality_experiment
